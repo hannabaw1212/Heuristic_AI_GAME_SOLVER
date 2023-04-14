@@ -1,4 +1,4 @@
-# Heuristic_AI_GAME_SOLVER
+# Heuristic_AI_GAME_SOLVER (Using Java-8)
 
 this project focus on solving the sliding puzzle game using three different search algorithms: Iterative Deepening, Breadth-First Search (BFS), and A* (A-Star). The goal of the project is to rearrange a given square of squares (3x3 or 4x4) into ascending order by switching adjacent squares vertically or horizontally.
 
